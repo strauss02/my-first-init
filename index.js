@@ -11,3 +11,7 @@ function timeFromAToB(date1, date2) {
 
   return date1Moment.diff(date2Moment, 'years');
 }
+
+function daysInMonth(date, format) {
+  return moment(date, format).daysInMonth();
+}
