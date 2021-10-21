@@ -1,0 +1,26 @@
+{
+  "name": "my-first-init",
+  "version": "1.0.0",
+  "description": "Just trying out my first init here.. ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strauss02/my-first-init.git"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "ahmed <strauss02@hotmail.co.il>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strauss02/my-first-init/issues"
+  },
+  "homepage": "https://github.com/strauss02/my-first-init#readme",
+  "devDependencies": {
+    "moment": "^2.29.1"
+  }
+}
